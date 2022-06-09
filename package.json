@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@linaria/babel-preset": "^3.0.0-beta.20",
+    "@linaria/core": "^3.0.0-beta.20",
+    "@linaria/esbuild": "^3.0.0-beta.20",
+    "@linaria/react": "^3.0.0-beta.20",
+    "@linaria/shaker": "^3.0.0-beta.20",
+    "esbuild": "^0.14.43",
+    "react": "^18.1.0"
+  }
+}
